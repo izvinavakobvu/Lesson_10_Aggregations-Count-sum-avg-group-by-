@@ -1,0 +1,1 @@
+INSERT INTO Data (ID, Name, Age) VALUES (, 'undefined', undefined);
